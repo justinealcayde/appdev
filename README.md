@@ -7,5 +7,5 @@ My first respository
 -The Marvels
 -The Dark Knight
 
-Add info about favorite movie/series.
+
 
